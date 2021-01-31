@@ -14,6 +14,8 @@
 ![badge](https://img.shields.io/badge/Report-History-orange)
 ![badge](https://img.shields.io/badge/Custom-Backend-yello)
 
+<img src = "Logo/c202a9dd-cdd2-4c3f-aab2-a587c4b4b72f.jfif">
+
 # Introduction ⚒  
 Doctor Bot is a medical assistant app used to diagnose various diseases, suggest medicines and save your report history. The app works on various types of high level Machine Learning Model. The Machine Learning Model learns the input image and shows you the result. This app consists of a medical bot which guides you the medicine to take according to the symptoms you have. You can even add your report history which gets saved on a custom database.
 
